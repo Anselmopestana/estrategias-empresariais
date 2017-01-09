@@ -1,4 +1,4 @@
-criar um usuario em github (se n„o tiver) 
+criar um usuario em github (se n√£o tiver) 
 http://github.com
 
 Grupo 1 
@@ -12,9 +12,10 @@ Arlindo Neto - arlindoneto@gmail.com
 Celina Rebello - celinarebello@yahoo.com
 
 Grupo 3
-Jansen Silva Cardoso - jansen.cardoso@gmail.com - usu·rio github: jansencardoso
-Isac Mendes - isac.mendes@gmail.com - usu·rio github: isacmendes 
-Iggor Benicio Ardilha da Silva Alves - iggorbeni@gmail.com - usu·rio github: igbeni
+Jansen Silva Cardoso - jansen.cardoso@gmail.com - usu√°rio github: jansencardoso
+Isac Mendes - isac.mendes@gmail.com - usu√°rio github: isacmendes 
+Iggor Benicio Ardilha da Silva Alves - iggorbeni@gmail.com - usu√°rio github: igbeni
+Anselmo Pestana Ribeiro Costa - anselmopestana@gmail.com  
 
 
 Grupo 4
